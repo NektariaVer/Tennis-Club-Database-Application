@@ -22,5 +22,9 @@ python tennis_club_data_base.py
 
 
 ### Requirements
+```Bash
 sqlite3
+```
+```Bash
 tabulate
+```
